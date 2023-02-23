@@ -1,5 +1,13 @@
 0. 在react native 中所有组件默认使用flexBox 布局，因此没有display:flex 
 
++ 所有样式使用style ，JavaScript语法结构
+
++ 样式为对象({}) 形式
+
++ 多个样式使用[] 数组，
+
+  ![image](../assets/65.jpg)
+
 1. paddingHorizontal: 水平方向左右两边的padding ,类似于同时设置paddingLeft 和 paddingRight 两边的padding
 
 2. paddingVertical: 垂直方向上下两边的padding,类似于同时设置paddingTop 和 paddingBottom 两边的padding
