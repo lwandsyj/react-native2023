@@ -11,3 +11,7 @@
 5. elevation: 这会为项目添加阴影并影响重叠视图的 z 顺序。仅在 Android 5.0+ 上支持
 
    > android 上阴影(shadow) 和 zIndex 
+
+6. transform 使用对象形式
+
+   ![image](../assets/64.jpg)
